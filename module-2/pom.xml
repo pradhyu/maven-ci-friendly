@@ -12,6 +12,7 @@
 
     <groupId>com.spykes</groupId>
     <artifactId>module-2</artifactId>
+    <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>module-2</name>
 </project>
