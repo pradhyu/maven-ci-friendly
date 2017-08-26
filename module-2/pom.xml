@@ -10,7 +10,6 @@
         <version>${revision}</version>
     </parent>
 
-    <groupId>com.spykes</groupId>
     <artifactId>module-2</artifactId>
     <packaging>jar</packaging>
     <version>${revision}</version>
