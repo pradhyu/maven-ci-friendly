@@ -12,7 +12,6 @@
 
     <artifactId>module-1</artifactId>
     <packaging>jar</packaging>
-    <version>${revision}</version>
     <name>module-1</name>
 
     <dependencies>
